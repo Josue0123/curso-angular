@@ -1,0 +1,33 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div [ngStyle]= "{
+  'background' : config.fondo,
+  'padding'    : '20px',
+  'border'     : '5px solid black',
+  'border-color' : config.color
+}">
+  <h1>
+    Bienvenido a {{ title }}!
+  </h1>
+  <p>{{ descripcion }}</p>
+  <!--
+  <button (click)="ocultarVideojuegos(false)" *ngIf="mostrar_videojuegos">Ocultar</button>
+  <button (click)="ocultarVideojuegos(true)" *ngIf="!mostrar_videojuegos">Mostrar</button>
+  <button (click)="ocultarVideojuegos(true)" >Mostrar</button>
+  <videojuego *ngIf="mostrar_videojuegos"></videojuego>
+  <cursos></cursos>
+  -->
+  <zapatillas></zapatillas>
+</div>
+
+<h3>Basic Buttons</h3>
+<div class="example-button-row">
+  <button mat-button>Basic</button>
+  <button mat-raised-button color="primary">Primary</button>
+  <button mat-button color="accent">Accent</button>
+  <button mat-button color="warn">Warn</button>
+  <button mat-button disabled>Disabled</button>
+  <a mat-button routerLink=".">Link</a>
+</div>
+  
+
+
