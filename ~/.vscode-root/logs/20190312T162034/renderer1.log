@@ -264,3 +264,4 @@
     at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
     at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
     at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:47:02.656] [renderer1] [info] no standard startup: not just one text editor
