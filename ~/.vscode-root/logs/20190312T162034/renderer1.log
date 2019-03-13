@@ -1,1 +1,266 @@
 [2019-03-12 17:27:36.549] [renderer1] [info] no standard startup: not just one text editor
+[2019-03-12 18:09:24.542] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-03-12 18:09:26.800] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:09:32.535] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:09:35.433] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:09:52.205] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:10:05.583] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:10:22.115] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:10:27.159] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:11:20.775] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:12:49.783] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:12:58.198] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:13:14.317] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:13:16.341] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:13:25.214] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:13:28.514] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:13:40.447] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:13:46.135] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:14:17.546] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:14:22.187] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:14:44.759] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:14:51.236] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:16:20.801] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:16:50.874] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-03-12 18:17:05.887] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///snap/vscode/87/usr/share/code/resources/app/out/vs/workbench/workbench.main.js:105:891)

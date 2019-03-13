@@ -5,11 +5,8 @@ import { AppComponent } from './app.component';
 import { VideojuegoComponent } from './videojuego/videojuego.component';
 import { ZapatillasComponent } from './zapatillas/zapatillas.component';
 import { CursosComponent } from './cursos/cursos.component';
-import { NoopAnimationsModule } from '@angular/platform-browser/animations';
+import { Componentes } from './Componentes';
 
-//Angular material
-import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-import {MatButtonModule} from '@angular/material/button';  
 
 @NgModule({
   //cargan los componentes
@@ -23,10 +20,7 @@ import {MatButtonModule} from '@angular/material/button';
   imports: [
     
     BrowserModule,
-    BrowserAnimationsModule,
-    MatButtonModule,
-    NoopAnimationsModule
-    
+    Componentes
   ],
   providers: [], //carga servicios
   bootstrap: [AppComponent] // componente principal que se va a cargar
