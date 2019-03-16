@@ -9,24 +9,18 @@
     Bienvenido a {{ title }}!
   </h1>
   <p>{{ descripcion }}</p>
-  <!--
-  <button (click)="ocultarVideojuegos(false)" *ngIf="mostrar_videojuegos">Ocultar</button>
-  <button (click)="ocultarVideojuegos(true)" *ngIf="!mostrar_videojuegos">Mostrar</button>
-  <button (click)="ocultarVideojuegos(true)" >Mostrar</button>
-  <videojuego *ngIf="mostrar_videojuegos"></videojuego>
-  <cursos></cursos>
-  -->
-  <zapatillas></zapatillas>
-</div>
-
-<h3>Basic Buttons</h3>
-<div class="example-button-row">
-  <button mat-button>Basic</button>
-  <button mat-raised-button color="primary">Primary</button>
-  <button mat-button color="accent">Accent</button>
-  <button mat-button color="warn">Warn</button>
-  <button mat-button disabled>Disabled</button>
-  <a mat-button routerLink=".">Link</a>
+  <nav>
+    <a [routerLink]="['/home']" [routerLinkActive]="['active']">Home</a>
+    &nbsp;
+    <a [routerLink]="['/zapatillas']" [routerLinkActive]="['active']">Zapatillas</a>
+    &nbsp;
+    <a [routerLink]="['/cursos']" [routerLinkActive]="['active']">Cursos</a>
+    &nbsp;
+    <a [routerLink]="['/videojuegos']" [routerLinkActive]="['active']">Videojuegos</a>
+  </nav>
+  <hr>
+  <!--<zapatillas></zapatillas>-->
+  <router-outlet></router-outlet>
 </div>
   
 
